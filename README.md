@@ -1,8 +1,6 @@
-# Hi, I'm Qian 👋
+# Hi, I'm Maruko 👋
 
-Go developer in Shanghai. I like small native tools that start fast and stay out of the way.
-
-我是 Qian,在上海写 Go。喜欢做小而原生、不打扰人的工具。
+Go developer. I like small native tools that start fast and stay out of the way.
 
 ## Featured: Hop
 
