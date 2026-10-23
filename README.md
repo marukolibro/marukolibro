@@ -16,8 +16,3 @@ Go developer. I like small native tools that start fast and stay out of the way.
 <p>
   <img src="https://skillicons.dev/icons?i=go,java,ts,py,spring,rabbitmq,docker,githubactions&perline=8" alt="Go, Java, TypeScript, Python, Spring, RabbitMQ, Docker, GitHub Actions">
 </p>
-
-- **Go:** Gin, Wire, gRPC / Protocol Buffers
-- **Java:** Spring Boot, Spring Cloud, MyBatis-Plus, JPA
-- **Middleware:** Nacos, RabbitMQ
-- **Tooling:** Docker, GitHub Actions
